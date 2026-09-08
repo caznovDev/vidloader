@@ -1,0 +1,6 @@
+{
+  "name": "YTDLnis",
+  "description": "Video & Music Downloader with batch downloads, MP3/MP4 conversion, playlist support, and real-time progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
